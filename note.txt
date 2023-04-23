@@ -8,6 +8,4 @@ I forgot to add a TODO of what we've been plotting.
 ===TODO==== 
 - force my authority to pet me with both hands (again). One handed petting is just... half .. of ... love... 
 - move my ssh keys over to the infected host to facilitate easier file transfers and data exfiltration. 
-- move the CatnipControl (C2) Server decryption key of \xbadcad off of the repo to the C2
 - hunt down the mouse that's been creeping around in the C2 server room. 
-- Make sure that the Authorities don't capture the secret flag:  Infected{GitOSINTFruitsForToday} 
