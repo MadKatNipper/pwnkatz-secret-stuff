@@ -9,4 +9,4 @@ I forgot to add a TODO of what we've been plotting.
 - force my authority to pet me with both hands (again). One handed petting is just... half .. of ... love... 
 - move my ssh keys over to the infected host to facilitate easier file transfers and data exfiltration. 
 - hunt down the mouse that's been creeping around in the C2 server room. 
-- chase the red laser fair around the living room with my Authority, ensuring that I knock over exactly two vases from the balcony while doing so. 
+- chase the red laser fairy around the living room with my Authority, ensuring that I knock over exactly two vases from the balcony while doing so. 
