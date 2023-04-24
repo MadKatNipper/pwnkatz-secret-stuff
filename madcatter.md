@@ -3,7 +3,7 @@
 Man, idk why boss always favors `madcatter` over `verociousfeline` and I... Sure, he catches more mice than us, and yeah he did successfully 
 deploy the ransomware to that infected host, but he hasn't been keeping track of our progress on GitHub as well as we have. I think the boss will be 
 very pleased to see that we have been keeping track of the most important updates. Maybe he'll give me a raise so I can get that new cactus scratching
-post I've been eyeballing in isle 13 of the convenience store.
+post I've been eyeballing in aisle 13 of the convenience store.
 
 I digress. 
 
